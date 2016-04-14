@@ -1,5 +1,6 @@
 {
 	"name": "Android",
+	"size": 1000,
 	"children": [
 	{
 		"name": "计算机基础",
